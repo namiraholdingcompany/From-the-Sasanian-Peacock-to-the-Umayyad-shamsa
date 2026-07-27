@@ -1,4 +1,4 @@
-# From the Sasanian Peacock to the Umayyad Sunburst: An Analysis of the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
+# From the Sasanian Peacock to the Umayyad Shamsa: An Analysis of the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
 
 **DOI:** [https://doi.org/10.5281/zenodo.21569014]
 
