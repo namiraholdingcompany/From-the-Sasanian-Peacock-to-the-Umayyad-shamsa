@@ -1,12 +1,12 @@
 # From the Sasanian Peacock to the Umayyad Shamsa: An Analysis of the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
 
-**DOI:** [(https://doi.org/10.5281/zenodo.21569014)]
+**DOI:** (https://doi.org/10.5281/zenodo.21569014)
 
 ---
 
 ## Abstract
 
-The Dome of the Rock, one of the oldest and most magnificent monuments of Islamic architecture, is not merely a religious edifice but a visual testament to the continuity of Iranian wisdom within the framework of Islamic art. Employing a descriptive-analytical approach and relying on library and documentary sources, this study explores the hidden aesthetic layers of this monument and seeks to reveal the role of ancient Iranian art —particularly that of the Sasanian period— in shaping its ornamentation.
+The Dome of the Rock, one of the oldest and most magnificent monuments of Islamic architecture, is not merely a religious edifice but a visual testament to the continuity of Iranian wisdom within the framework of Islamic art. Employing a descriptive-analytical approach and relying on library and documentary sources, this study explores the hidden aesthetic layers of this monument and seeks to reveal the role of ancient Iranian art -particularly that of the Sasanian period- in shaping its ornamentation.
 
 The central question is: to what extent do the peacock motif and the arabesque patterns adorning the Dome of the Rock’s dome draw from the visual traditions of pre-Islamic Iran, and how have these elements been fused with Islamic concepts of unity and light? The findings suggest that the geometric and arabesque decorations of this building are not merely inspired by Byzantine art, but rather inherit the sign system of ancient Iran, a system in which the peacock symbolized glory and immortality, and the arabesque represented divine infinity.
 
