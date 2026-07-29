@@ -1,6 +1,6 @@
 # From the Sasanian Peacock to the Umayyad Shamsa: An Analysis of the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
 
-**DOI:** (https://doi.org/10.5281/zenodo.21569014)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21569014.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21569014)
 
 ---
 
