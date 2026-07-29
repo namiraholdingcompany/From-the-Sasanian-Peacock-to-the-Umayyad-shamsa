@@ -23,8 +23,8 @@ Dome of the Rock, Sasanian Art, Peacock Motif, Arabesque, Islamic Architecture, 
 ## Article Details
 
 - **Title:** From the Sasanian Peacock to the Umayyad shamsa: An Analysis of the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
-- **Author:** [Haleh Ghoorchian]
-- **Published:** [2026/06/20]
+- **Author:** Haleh Ghoorchian
+- **Published:** 2026/06/20
 - **Publisher:** Nebešt Foundation
 - **License:** CC BY-NC 4.0
 
